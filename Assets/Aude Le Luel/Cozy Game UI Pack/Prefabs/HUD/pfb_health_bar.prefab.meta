@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf5df6d6a6771a34e870af6a3631c99a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278572
+  packageName: Cozy game UI pack
+  packageVersion: 1.0
+  assetPath: Assets/Aude Le Luel/Cozy Game UI Pack/Prefabs/HUD/pfb_health_bar.prefab
+  uploadId: 647675

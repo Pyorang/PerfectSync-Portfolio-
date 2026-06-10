@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd20ad9ad5d797459a33de78cdfda6d, type: 3}
+  m_Name: Drone_003_1
+  m_EditorClassIdentifier: Assembly-CSharp::ithappy.MapEditor.BlockDefinition
+  blockId: Drone_003_1
+  displayName: Drone 003 1
+  category: 5
+  prefab: {fileID: 2367890133865365930, guid: 1b5e460181a431d4b95ee2d610a77aaf, type: 3}
+  thumbnail: {fileID: 0}
+  gridSize: {x: 4, y: 2.5, z: 1.5}
+  snapOffset: {x: 0, y: 0, z: 0}
+  allowRotation: 1
+  allowedRotationAngles:
+  - 0
+  - 90
+  - 180
+  - 270
+  allowScaling: 1
+  minScale: {x: 0.5, y: 0.5, z: 0.5}
+  maxScale: {x: 3, y: 3, z: 3}
+  tags:
+  - drone

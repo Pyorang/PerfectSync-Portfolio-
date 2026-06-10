@@ -1,0 +1,175 @@
+{
+    "mapName": "Untitled",
+    "version": "1.0",
+    "createdAt": "2026-03-20T12:56:36.8056821+09:00",
+    "modifiedAt": "2026-03-20T12:56:36.8066830+09:00",
+    "gridSize": 2.0,
+    "blocks": [
+        {
+            "blockId": "water_platform_001",
+            "position": {
+                "x": -98.48045349121094,
+                "y": 0.0,
+                "z": -41.76533126831055
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sortOrder": 1,
+            "customPropertiesJson": "{}"
+        },
+        {
+            "blockId": "water_platform_tube_001",
+            "position": {
+                "x": -98.5999984741211,
+                "y": 1.5099999904632569,
+                "z": -42.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 5.0,
+                "z": 1.0
+            },
+            "sortOrder": 2,
+            "customPropertiesJson": "{}"
+        },
+        {
+            "blockId": "water_platform_partition_001",
+            "position": {
+                "x": -98.5999984741211,
+                "y": 2.490000009536743,
+                "z": -42.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sortOrder": 4,
+            "customPropertiesJson": "{}"
+        },
+        {
+            "blockId": "platform_006",
+            "position": {
+                "x": -98.48045349121094,
+                "y": 19.049999237060548,
+                "z": -38.560001373291019
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sortOrder": 5,
+            "customPropertiesJson": "{}"
+        },
+        {
+            "blockId": "obstacle_15_001",
+            "position": {
+                "x": -92.8499984741211,
+                "y": 19.0,
+                "z": -57.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sortOrder": 10,
+            "customPropertiesJson": "{}"
+        },
+        {
+            "blockId": "platform_007",
+            "position": {
+                "x": -98.48045349121094,
+                "y": 19.049999237060548,
+                "z": -44.58000183105469
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sortOrder": 12,
+            "customPropertiesJson": "{}"
+        },
+        {
+            "blockId": "trampoline_3_001",
+            "position": {
+                "x": -107.55000305175781,
+                "y": -0.8399999737739563,
+                "z": -142.52000427246095
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 3.0,
+                "y": 3.0,
+                "z": 3.0
+            },
+            "sortOrder": 6,
+            "customPropertiesJson": "{}"
+        },
+        {
+            "blockId": "obstacle_12_001",
+            "position": {
+                "x": -98.12999725341797,
+                "y": 17.989999771118165,
+                "z": -105.62999725341797
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 2.0,
+                "y": 2.0,
+                "z": 2.0
+            },
+            "sortOrder": 7,
+            "customPropertiesJson": "{}"
+        }
+    ],
+    "metadata": {
+        "author": "",
+        "description": "",
+        "difficulty": 1,
+        "estimatedTime": 0.0
+    }
+}

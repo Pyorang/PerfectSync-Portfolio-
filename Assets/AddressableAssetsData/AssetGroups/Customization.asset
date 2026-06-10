@@ -1,0 +1,593 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Customization
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Customization
+  m_GUID: be3a8a9c2fdf11e4596bceeef87cc333
+  m_SerializeEntries:
+  - m_GUID: 008bbad9c2a824942a323eff1fc138e8
+    m_Address: Assets/08.ScriptableObejct/Customize Items/10. Gloves/Gloves07.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Gloves
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01ebd7b41144e164f89829175439ceb3
+    m_Address: Assets/08.ScriptableObejct/Customize Items/01. Hair/Hair00.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hair
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08d0dfd6e96ab6c4a82835c616ec7f41
+    m_Address: Assets/08.ScriptableObejct/Customize Items/07. Mouth/Mouth01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Mouth
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09b3742bad5acb445894ced3fca07acc
+    m_Address: Assets/08.ScriptableObejct/Customize Items/01. Hair/Hair03 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hair
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a046b6f86fb5c44e84954cb5f3eb00c
+    m_Address: Assets/08.ScriptableObejct/Customize Items/03. Horn/Horn00 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Horn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ce1a1a8116064c46bf9c4477728f57e
+    m_Address: Assets/08.ScriptableObejct/Customize Items/11. Tail/Tail05.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Tail
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0df3e45b974cffd4ca333fbc05f02b57
+    m_Address: Assets/08.ScriptableObejct/Customize Items/08. Body Color/BodyColor04.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_BodyColor
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0edba98731fad3245b9060c62acf22b5
+    m_Address: Assets/08.ScriptableObejct/Customize Items/04. Ears/Horn00.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Ears
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12cf5049d0638fc4e97f31772190c546
+    m_Address: Assets/08.ScriptableObejct/Customize Items/07. Mouth/Mouth08.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Mouth
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 140c91c39ac254b468c3f5bdea69b9ff
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes13.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 179481d9e99c1524b8cbc8cec9ff8c69
+    m_Address: Assets/08.ScriptableObejct/Customize Items/11. Tail/Tail06.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Tail
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23de9687c3cd91240b7a42480fd4912f
+    m_Address: Assets/08.ScriptableObejct/Customize Items/04. Ears/Ears04.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Ears
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 241fc2a053cdef347aa2f5472835b7f9
+    m_Address: Assets/08.ScriptableObejct/Customize Items/07. Mouth/Mouth05.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Mouth
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 245532050b51f334bb0c7be361bea069
+    m_Address: Assets/08.ScriptableObejct/Customize Items/09. Body Parts/Body09.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Body
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25bd1c6466e71c348813057778a16563
+    m_Address: Assets/08.ScriptableObejct/Customize Items/01. Hair/Hair01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hair
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 263f90041a064d443b21e5c66193450b
+    m_Address: Assets/08.ScriptableObejct/Customize Items/07. Mouth/Mouth06.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Mouth
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29e09515e95de9b44a95bba4482d8724
+    m_Address: Assets/08.ScriptableObejct/Customize Items/10. Gloves/Gloves03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Gloves
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e513c1dbf455df4eb74cdb5d30e9382
+    m_Address: Assets/08.ScriptableObejct/Customize Items/08. Body Color/Mouth00.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_BodyColor
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f7cf8399b7ce3b4da6acefd011cc49e
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes04.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3010fb9448f7d684e97f7015f1eea463
+    m_Address: Assets/08.ScriptableObejct/Customize Items/04. Ears/Ears01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Ears
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33e56fe3aaa531342b6081a3a1ea52c6
+    m_Address: Assets/08.ScriptableObejct/Customize Items/04. Ears/Ears02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Ears
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33eefc9f9954e5f44a84fe54185f8099
+    m_Address: Assets/08.ScriptableObejct/Customize Items/10. Gloves/Gloves06.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Gloves
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b0928e14c887474ea4f49906fc3dbc0
+    m_Address: Assets/08.ScriptableObejct/Customize Items/01. Hair/Hair02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hair
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b7b31226ed497e4193fc39ea72e0b04
+    m_Address: Assets/08.ScriptableObejct/Customize Items/08. Body Color/BodyColor03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_BodyColor
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f58e986a0b79574989f756da0519b89
+    m_Address: Assets/08.ScriptableObejct/Customize Items/04. Ears/Ears05.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Ears
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48d09e528b434274299f498715631aea
+    m_Address: Assets/08.ScriptableObejct/Customize Items/11. Tail/Tail02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Tail
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c8257e5ac411e54c9b069ff168f3ca0
+    m_Address: Assets/08.ScriptableObejct/Customize Items/07. Mouth/Mouth07.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Mouth
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d288c0480e1cc149a55db0e55ab8422
+    m_Address: Assets/08.ScriptableObejct/Customize Items/11. Tail/Tail04.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Tail
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f7ea3fbe827ecb419f968aa3bf20573
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes07.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fc190bf610384e4ba08e924fd787371
+    m_Address: Assets/08.ScriptableObejct/Customize Items/06. Nose/Nose00.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Nose
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 500ad62e83dda6b4cb5cd17d1abb58d1
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5354b0f0ac93aac40b5d3112bd3eee6f
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes12.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5372ce2e765729d4682992a4302a2bc7
+    m_Address: Assets/08.ScriptableObejct/Customize Items/10. Gloves/Gloves09.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Gloves
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54fec5f54334c57458d02d8cc370e0bf
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 554f3b14119676146aad0c142cc0ff37
+    m_Address: Assets/08.ScriptableObejct/Customize Items/09. Body Parts/Body06.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Body
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55e10464180d2194c833b8e0521b5ee9
+    m_Address: Assets/08.ScriptableObejct/Customize Items/11. Tail/Tail03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Tail
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57b5292c80635d34d9be174e3d3a1817
+    m_Address: Assets/08.ScriptableObejct/Customize Items/02. Hat/Hat03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hat
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5daba1d3e96697141a7170e53f2f1d86
+    m_Address: Assets/08.ScriptableObejct/Customize Items/02. Hat/Hat05.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hat
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c0ed57c34c0c6c4d88006afc61a7a28
+    m_Address: Assets/08.ScriptableObejct/Customize Items/08. Body Color/BodyColor06.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_BodyColor
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e3f07a3164ae554a97cfad546a8dfa2
+    m_Address: Assets/08.ScriptableObejct/Customize Items/09. Body Parts/Body00.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Body
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6eda5d16104977843aa40c6cc4971513
+    m_Address: Assets/08.ScriptableObejct/Customize Items/10. Gloves/Gloves10.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Gloves
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 725e714970e50f14985f5642e6c0048b
+    m_Address: Assets/08.ScriptableObejct/Customize Items/11. Tail/Tail00.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Tail
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7292523d31b7b714487d383d789ca6b6
+    m_Address: Assets/08.ScriptableObejct/Customize Items/07. Mouth/Mouth03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Mouth
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75003cd9ea7e9e84b8870b20a88ed763
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes08.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79d50a2633ad0644eac3b36a92d2286c
+    m_Address: Assets/08.ScriptableObejct/Customize Items/10. Gloves/Gloves01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Gloves
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b502179374b58041b6bdcb2dce35ab7
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes15.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b722e735fe049c45894fd75c6720e88
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes10.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ba2ee5feb19d974c94f6f948d18b022
+    m_Address: Assets/08.ScriptableObejct/Customize Items/06. Nose/Nose03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Nose
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ce7101cb36754141b3a18e73ec3d8b4
+    m_Address: Assets/08.ScriptableObejct/Customize Items/11. Tail/Tail01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Tail
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82d685d0e32a3084eaa96e3d92da0e87
+    m_Address: Assets/08.ScriptableObejct/Customize Items/02. Hat/Hat02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hat
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8540a333b1759a841be6a4bfdcc49a48
+    m_Address: Assets/08.ScriptableObejct/Customize Items/11. Tail/Tail08.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Tail
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ac8d1ff2ab68f44595fd562e3f0bf21
+    m_Address: Assets/08.ScriptableObejct/Customize Items/08. Body Color/BodyColor05.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_BodyColor
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bbd5198180f17540a41a0b5abb9a3dd
+    m_Address: Assets/08.ScriptableObejct/Customize Items/02. Hat/Hat00.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hat
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e6255b9fad5c6043bbaf08b0f297723
+    m_Address: Assets/08.ScriptableObejct/Customize Items/08. Body Color/BodyColor02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_BodyColor
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9465e59d895a2ea4295b24813a91e415
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Ears00.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9530605ebfeeeed4580c4150ffc64e43
+    m_Address: Assets/08.ScriptableObejct/Customize Items/09. Body Parts/Body02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Body
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9726969f315f7ba4a872605d81bf293c
+    m_Address: Assets/08.ScriptableObejct/Customize Items/03. Horn/Horn00 4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Horn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9917cfc9e2b1a324f9646c8c12959b30
+    m_Address: Assets/08.ScriptableObejct/Customize Items/09. Body Parts/Body10.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Body
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e78d5bbd3584374795a77d44d1d3053
+    m_Address: Assets/08.ScriptableObejct/Customize Items/03. Horn/Horn00.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Horn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2bfac5a15e63244dba4dd92bcef3d5c
+    m_Address: Assets/08.ScriptableObejct/Customize Items/09. Body Parts/Body07.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Body
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a462ff399c5203345b4f9f9aa3e43edc
+    m_Address: Assets/08.ScriptableObejct/Customize Items/10. Gloves/Gloves08.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Gloves
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a533b21ba6ce58e40bd922d7a4443780
+    m_Address: Assets/08.ScriptableObejct/Customize Items/06. Nose/Nose01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Nose
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a56f9f295ea59cb4d9773112bc4a9fa2
+    m_Address: Assets/08.ScriptableObejct/Customize Items/07. Mouth/Mouth09.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Mouth
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8ee30954529a034da5ea84e64468e90
+    m_Address: Assets/08.ScriptableObejct/Customize Items/03. Horn/Horn00 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Horn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa77d876b87c93b47abc12bcfd28998e
+    m_Address: Assets/08.ScriptableObejct/Customize Items/03. Horn/Horn00 3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Horn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac2a9bed41d87ab4d9000cad118818d7
+    m_Address: Assets/08.ScriptableObejct/Customize Items/09. Body Parts/Body03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Body
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac3702d79dcc64b4aa6b3522ee6b178c
+    m_Address: Assets/08.ScriptableObejct/Customize Items/09. Body Parts/Body05.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Body
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac9a91e9e6ce10c469d6684d82127593
+    m_Address: Assets/08.ScriptableObejct/Customize Items/02. Hat/Hat04.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hat
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b17cec8f302a0ce43baa469c4b5f28b4
+    m_Address: Assets/08.ScriptableObejct/Customize Items/04. Ears/Ears03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Ears
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2d0a26bb2726444687e588ee2b2322d
+    m_Address: Assets/08.ScriptableObejct/Customize Items/11. Tail/Tail07.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Tail
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4002780afe39814abe6cd53dae959b5
+    m_Address: Assets/08.ScriptableObejct/Customize Items/07. Mouth/Mouth10.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Mouth
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4c47bf8c6b003b40b08f7491af426d9
+    m_Address: Assets/08.ScriptableObejct/Customize Items/09. Body Parts/Body08.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Body
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9bb586f9dda47e4bb2a0a2eac8991c6
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes09.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb88287e99ab62d44a53f656e5e01e45
+    m_Address: Assets/08.ScriptableObejct/Customize Items/02. Hat/Hat01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hat
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcf84aacaee5a1f4d8abb33a2056792b
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes05.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfce75f270a25284ea04b5d2a013cf66
+    m_Address: Assets/08.ScriptableObejct/Customize Items/10. Gloves/Gloves05.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Gloves
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cda847c7852caaf4eafab8cc18ed7967
+    m_Address: Assets/08.ScriptableObejct/Customize Items/06. Nose/Nose05.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Nose
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ced2f75137041a749957dff8bf195450
+    m_Address: Assets/08.ScriptableObejct/Customize Items/07. Mouth/Mouth04.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Mouth
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf1f96160931d004d8739f04cf7a59f3
+    m_Address: Assets/08.ScriptableObejct/Customize Items/09. Body Parts/Body01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Body
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d118bac3f66c7f84db11e75810954d45
+    m_Address: Assets/08.ScriptableObejct/Customize Items/10. Gloves/Gloves04.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Gloves
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d605d35316b783c43b70e3932c139c3a
+    m_Address: Assets/08.ScriptableObejct/Customize Items/07. Mouth/Mouth00.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Mouth
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d816727989b4a6147adc1f94d17836c8
+    m_Address: Assets/08.ScriptableObejct/Customize Items/10. Gloves/Gloves02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Gloves
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d949ef46f415f6b4cad3261357deee86
+    m_Address: Assets/08.ScriptableObejct/Customize Items/07. Mouth/Mouth02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Mouth
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db078202f213d6640ac94d96169eb640
+    m_Address: Assets/08.ScriptableObejct/Customize Items/01. Hair/Hair06.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hair
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db411bb2bb48db0498fdae7b0a14987d
+    m_Address: Assets/08.ScriptableObejct/Customize Items/02. Hat/Hat06.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hat
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbaa49c2696bfd34bba339442efc6ba0
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes14.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1fe1042f7613ee4f8476f0093b6d305
+    m_Address: Assets/08.ScriptableObejct/Customize Items/01. Hair/Hair03.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hair
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec6c9b4466bebd5449c4c696abf00658
+    m_Address: Assets/08.ScriptableObejct/Customize Items/06. Nose/Nose04.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Nose
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0a5be3545350c647b924c10e1b3afbf
+    m_Address: Assets/08.ScriptableObejct/Customize Items/01. Hair/Hair03 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Hair
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1ff8be663f198b4dac70132334aae8d
+    m_Address: Assets/08.ScriptableObejct/Customize Items/06. Nose/Nose02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Nose
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4c4d3c0db09935419c098e643c7371a
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes06.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f69f8c33f9e0116488b2560e136d7974
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes11.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f88320c6a5d5b03429289bf68e60f528
+    m_Address: Assets/08.ScriptableObejct/Customize Items/10. Gloves/Gloves00.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Gloves
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcfa0ddd8822d4c43857afac09088f18
+    m_Address: Assets/08.ScriptableObejct/Customize Items/05. Eyes/Eyes02.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Eyes
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe348f76793e6a6489aa3fe02cc30969
+    m_Address: Assets/08.ScriptableObejct/Customize Items/09. Body Parts/Body04.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cust_Body
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cc32f10171a6ebb4096cccc0646f01e3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0b7eb97ae5c68d24ca8d3887b932ab29, type: 2}
+    - {fileID: 11400000, guid: 0d2fc9deb90e1114187c335fad726333, type: 2}

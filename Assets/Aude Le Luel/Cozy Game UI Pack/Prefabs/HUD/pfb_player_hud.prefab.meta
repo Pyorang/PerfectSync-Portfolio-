@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 562dff4da381f5a42b96e072dca3ca65
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278572
+  packageName: Cozy game UI pack
+  packageVersion: 1.0
+  assetPath: Assets/Aude Le Luel/Cozy Game UI Pack/Prefabs/HUD/pfb_player_hud.prefab
+  uploadId: 647675

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Object_7 {Nail}
+* source:	https://sketchfab.com/3d-models/object-7-nail-247c2642f92043cc9e89a9064f2db7c5
+* author:	Megan Obert (https://sketchfab.com/obertmn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Object_7 {Nail}" (https://sketchfab.com/3d-models/object-7-nail-247c2642f92043cc9e89a9064f2db7c5) by Megan Obert (https://sketchfab.com/obertmn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

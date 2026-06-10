@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972147944351",
+    "project_id": "perfectsync-f0927",
+    "storage_bucket": "perfectsync-f0927.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972147944351:android:49d11ba012caa3c8df6baa",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrecu0eI5RMH_U3BQCeaXhW9aB5fLkc6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

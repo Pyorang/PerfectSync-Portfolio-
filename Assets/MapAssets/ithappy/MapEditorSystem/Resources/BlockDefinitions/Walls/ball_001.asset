@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd20ad9ad5d797459a33de78cdfda6d, type: 3}
+  m_Name: ball_001
+  m_EditorClassIdentifier: Assembly-CSharp::ithappy.MapEditor.BlockDefinition
+  blockId: ball_001
+  displayName: Ball 001
+  category: 2
+  prefab: {fileID: 4570893564054277331, guid: a1e5f9b28ecc8624d80a3e57a6ad3775, type: 3}
+  thumbnail: {fileID: 0}
+  gridSize: {x: 2, y: 2, z: 2}
+  snapOffset: {x: 0, y: 0, z: 0}
+  allowRotation: 1
+  allowedRotationAngles:
+  - 0
+  - 90
+  - 180
+  - 270
+  allowScaling: 1
+  minScale: {x: 0.5, y: 0.5, z: 0.5}
+  maxScale: {x: 3, y: 3, z: 3}
+  tags:
+  - ball

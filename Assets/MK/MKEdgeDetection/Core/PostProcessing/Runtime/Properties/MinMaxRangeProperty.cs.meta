@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8d535176283c0d642a9008b5a8c81286
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 284760
+  packageName: MK Edge Detection - Screen Space Lines Shader
+  packageVersion: 1.4.1
+  assetPath: Assets/MK/MKEdgeDetection/Core/PostProcessing/Runtime/Properties/MinMaxRangeProperty.cs
+  uploadId: 885906

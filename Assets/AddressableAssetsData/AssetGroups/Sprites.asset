@@ -1,0 +1,458 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Sprites
+  m_GUID: 61f463d0ee411d24a979cd1940d16ce1
+  m_SerializeEntries:
+  - m_GUID: 01b259139705d794ba14f375b9da765e
+    m_Address: Assets/04. Arts/Item/Mouth08.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03d481fffa660794ab0e4cf56c1b5797
+    m_Address: Assets/04. Arts/Item/Nose05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09f8d11b931a1704dae2aa08fa4f2e88
+    m_Address: Assets/04. Arts/Item/Eyes06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c377a81c80ca114d9ca1abd94d2fd59
+    m_Address: Assets/04. Arts/Item/Glove02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e0968b540ae84e4db844afb6003567b
+    m_Address: Assets/04. Arts/Item/BodyColor06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e1e27399d6ada542a60d85d2104c63d
+    m_Address: Assets/04. Arts/Item/Mouth09.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e98db823c48d8f40b11fff98f4744d1
+    m_Address: Assets/04. Arts/Item/Glove03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13006bc9e3413ec4e8311aa0c1788cb7
+    m_Address: Assets/04. Arts/Item/Hat04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16f36b9f073b4c044a79cae7fb809969
+    m_Address: Assets/04. Arts/Item/Ears01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19697e44879faa04d929cc7452d99caf
+    m_Address: Assets/04. Arts/Item/Horn01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19ad3d8a2b541524aa89653f3b4bea9b
+    m_Address: Assets/04. Arts/Item/Ears05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b5bd55a84669964db646812004c6a89
+    m_Address: Assets/04. Arts/Item/Horn02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ec1f0c51ac3b7e41b1ffe7498bde1cd
+    m_Address: Assets/04. Arts/Item/Glove04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24017a02496687945b3f7276cc524eb6
+    m_Address: Assets/04. Arts/Item/Eyes05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27af9aa8b3158094cb9319211d6334dd
+    m_Address: Assets/04. Arts/Item/Eyes12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27de7b8f9578a2a4cb96cea9b5a59174
+    m_Address: Assets/04. Arts/Item/Tail03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a0c0f92dea527c4298c180efa19c57d
+    m_Address: Assets/04. Arts/Item/Hair02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ba578b026a4b634d9d6ff5e12c33edd
+    m_Address: Assets/04. Arts/Item/BodyColor01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fd3d06c3e2186840aedf42b74891de4
+    m_Address: Assets/04. Arts/Item/BodyColor04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31b5169f8ae0fda49935f014ebd608fc
+    m_Address: Assets/04. Arts/Item/Ears02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32dc84e512a14c2409b565be05fa4540
+    m_Address: Assets/04. Arts/Item/Body09.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33a1897d8e99e4d4eacf88edca142ef0
+    m_Address: Assets/04. Arts/Item/Glove09.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33a833b5b32b52e4b87e07ac136e6afd
+    m_Address: Assets/04. Arts/Item/Body01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38029365b1b22474eb9061402637e037
+    m_Address: Assets/04. Arts/Item/Mouth04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4031f5cf0c1a7674f9a8331bf0e2b3c7
+    m_Address: Assets/04. Arts/Item/Hat01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43d9e483bb6f7c54095f019d4d4426b1
+    m_Address: Assets/04. Arts/Item/BodyColor03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46f97bc7315bf9342bab2eacb4aaaea0
+    m_Address: Assets/04. Arts/Item/Hair05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4776125082c950f45a85b1c7b9376402
+    m_Address: Assets/04. Arts/Item/Horn04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f758e357f063844985d716f1c3cd50f
+    m_Address: Assets/04. Arts/Item/Mouth07.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50f32d861195bdb47b687e2eb84f9bf7
+    m_Address: Assets/04. Arts/Item/Body10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5164a39444e512d4293fcf5c7a769a2d
+    m_Address: Assets/04. Arts/Item/Tail01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 559abd54edcffc143928d49390982551
+    m_Address: Assets/04. Arts/Item/Horn03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5647bcab5e51b0b41baf2c1588cd7c61
+    m_Address: Assets/04. Arts/Item/Default.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a48a0eaae36d7c4eb95d47b054bb4fb
+    m_Address: Assets/04. Arts/Item/Hat06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 617f9e19a2f2b4a4caf7b83cae87e057
+    m_Address: Assets/04. Arts/Item/Eyes13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6827c3320c15626478f63d5b1d239194
+    m_Address: Assets/04. Arts/Item/Ears04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a93bbf07aa06a844b40dd391e5d4bd3
+    m_Address: Assets/04. Arts/Item/Body07.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b1d601f143c15b4eae5efa5adf91e81
+    m_Address: Assets/04. Arts/Item/Tail04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e69f0154d7863e43841a5607c80bfa0
+    m_Address: Assets/04. Arts/Item/Body05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ea5dd3e68d9dad4097012a910de745f
+    m_Address: Assets/04. Arts/Item/Mouth10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7143b4fa9a8de4e48bca758cdc55fbe1
+    m_Address: Assets/04. Arts/Item/Eyes08.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72c7d36fc8eb7f64b87f1126e45a7386
+    m_Address: Assets/04. Arts/Item/Eyes10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72fea3cb907a0cb448ed07aa096bee00
+    m_Address: Assets/04. Arts/Item/Hair03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7562753f904b6d947a53b04c802fbf22
+    m_Address: Assets/04. Arts/Item/Hat03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78aa4c7fd007e52459dc138f7967b244
+    m_Address: Assets/04. Arts/Item/Glove06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7910bc23c94d8d748922e74ee322f2b1
+    m_Address: Assets/04. Arts/Item/Glove07.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a4da3aab6547f643845963eef4a3ea3
+    m_Address: Assets/04. Arts/Item/Nose03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bdbaa5e8fd6d8448a62f4b659eb4bbe
+    m_Address: Assets/04. Arts/Item/Eyes07.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c6522672cfc92f49a215a4ca6a34b3e
+    m_Address: Assets/04. Arts/Item/Nose02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88da2c629df6206449e55032935a9b65
+    m_Address: Assets/04. Arts/Item/Eyes01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a808406c5650444b96290e8f3052642
+    m_Address: Dots
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e12f402a719cab47a34fd8746d01d9c
+    m_Address: Assets/04. Arts/Item/Glove01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fc3b158dd0a3d8469f49d2bdb95761a
+    m_Address: Assets/04. Arts/Item/Tail07.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90a414d46778c584ebe3e80ebb255933
+    m_Address: Assets/04. Arts/Item/Mouth06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90f4908ec3b14d346a2f6283f2ce08e0
+    m_Address: Assets/04. Arts/Item/Body06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95a898178aaa4264cbd83f41be85fd5e
+    m_Address: Assets/04. Arts/Item/Nose01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c7592d92b7d02440abacda82074ffe1
+    m_Address: Assets/04. Arts/Item/Eyes11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a58775a0db270ac43b9ec013e2f7f4cb
+    m_Address: Assets/04. Arts/Item/Hair06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a84f0c652cc49834c836130961232b85
+    m_Address: Assets/04. Arts/Item/Eyes03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a89053c67aa9da34cbbe59e32292a8a2
+    m_Address: Assets/04. Arts/Item/Eyes09.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3a07d3247228544aaa00a59a142e6ca
+    m_Address: Assets/04. Arts/Item/Glove08.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b452daf679908ba488e239cc754e24c2
+    m_Address: Assets/04. Arts/Item/Glove10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5c8b752a8155e34f90896ff2f470206
+    m_Address: Assets/04. Arts/Item/Tail06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b87aa2261708ea3489c6e4a538ee8471
+    m_Address: Assets/04. Arts/Item/Hair01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9eb3ea3057ed124e85cbbcdd62b78b3
+    m_Address: Assets/04. Arts/Item/Tail05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb35d62a13d843044b00bab9476f5004
+    m_Address: Assets/04. Arts/Item/Tail02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6a9dd8af36741c48b50d44508de00cd
+    m_Address: Assets/04. Arts/Item/Mouth03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7038c89bbace424ca462311440b196f
+    m_Address: Assets/04. Arts/Item/Hair04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: caa9bf534a7e15747a52bfdb00816872
+    m_Address: Assets/04. Arts/Item/Tail08.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc984a87df6de9d49a7976232dc3311c
+    m_Address: Assets/04. Arts/Item/BodyColor05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccaa1b2e471e28b498b2512af29849b7
+    m_Address: Assets/04. Arts/Item/Body04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd767e07b25c03d46b6bdadec099bafa
+    m_Address: Assets/04. Arts/Item/Eyes04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd8411a36bf15924f8d792f3394e7d22
+    m_Address: Assets/04. Arts/Item/Glove05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cedcf8bde108a9749bce91d5c3e35ec6
+    m_Address: Assets/04. Arts/Item/Hat05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d13d474ee7871674aae282c690739da3
+    m_Address: Assets/04. Arts/Item/Mouth02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d83c8ca884e12df46babd0296293b98e
+    m_Address: Assets/04. Arts/Item/Ears03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da90e0f303247f646a9e70cb7f7e2b35
+    m_Address: Assets/04. Arts/Item/BodyColor02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df2a5425b5c665a4e9225545b096c366
+    m_Address: Assets/04. Arts/Item/Body03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0d90cb3d4079ba44b872ef89b29e7ff
+    m_Address: Assets/04. Arts/Item/Body02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e48c2524cf92d1f4f9e07005b205ce16
+    m_Address: Assets/04. Arts/Item/Body08.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8418c2155783ed40aa0fda85b822ebe
+    m_Address: Assets/04. Arts/Item/Hat02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec888cffdb1bb7b49ab54958e8d0a8f8
+    m_Address: Assets/04. Arts/Item/Eyes02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f00f1a37cfabaae44ac4c3483848b68c
+    m_Address: Assets/04. Arts/Item/Eyes14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0fa4f0200f98e747a6b327e9987881d
+    m_Address: Assets/04. Arts/Item/Mouth05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1c29bff0856f6845bbfe1b4654c3304
+    m_Address: Assets/04. Arts/Item/Eyes15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9432e8a8566e0847a6c4d79fb2c5712
+    m_Address: Assets/04. Arts/Item/Mouth01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fccec157fd1f51247930beaec7f17af9
+    m_Address: Assets/04. Arts/Item/Nose04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cc32f10171a6ebb4096cccc0646f01e3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 71a10c3633455c949ba27b8b314e98e4, type: 2}
+    - {fileID: 11400000, guid: d09382a4c0ff1ee4e96e916141b692c5, type: 2}

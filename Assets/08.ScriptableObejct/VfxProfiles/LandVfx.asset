@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95b888df53f43fc4ab10a972affc54df, type: 3}
+  m_Name: LandVfx
+  m_EditorClassIdentifier: Assembly-CSharp::Core.VFX.SpatialVfxProfile
+  _prefab: {fileID: 873612347705952065, guid: ead579d748dab0946b74b95e616285e5, type: 3}
+  _cooldown: 0.05
+  _scaleMin: 1
+  _scaleMax: 1
+  _lifetimeOverride: 0
+  _followTarget: 0

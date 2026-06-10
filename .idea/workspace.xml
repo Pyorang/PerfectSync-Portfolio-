@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10a31918-79fe-4c80-89ad-a22fb3470a3f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/01. Scenes/DY_Scene/InGame_1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01. Scenes/DY_Scene/InGame_1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02. Scripts/InGame/Obstacle/ObstacleHit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/02. Scripts/InGame/Obstacle/ObstacleHit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/03. Prefabs/Gimmicks/Hammer_P1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/03. Prefabs/Gimmicks/Hammer_P1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/03. Prefabs/Gimmicks/Hammer_P2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/03. Prefabs/Gimmicks/Hammer_P2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/03. Prefabs/Gimmicks/Spike.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/03. Prefabs/Gimmicks/Spike.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/TeamCharacter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/TeamCharacter.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Build Profiles/GameSceneOnly.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Build Profiles/GameSceneOnly.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3B4tT6bAFnB3POc8K9ySg1I1I52" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "feature/GamePlayElements",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10a31918-79fe-4c80-89ad-a22fb3470a3f" name="Changes" comment="" />
+      <created>1773760176384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773760176384</updated>
+    </task>
+    <servers />
+  </component>
+</project>
